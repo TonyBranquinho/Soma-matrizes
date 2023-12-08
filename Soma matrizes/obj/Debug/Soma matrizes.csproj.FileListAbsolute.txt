@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\Soma matrizes\Soma matrizes\bin\Debug\Soma matrizes.exe.config
+C:\temp\ws-vs2019\Soma matrizes\Soma matrizes\bin\Debug\Soma matrizes.exe
+C:\temp\ws-vs2019\Soma matrizes\Soma matrizes\bin\Debug\Soma matrizes.pdb
+C:\temp\ws-vs2019\Soma matrizes\Soma matrizes\obj\Debug\Soma matrizes.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Soma matrizes\Soma matrizes\obj\Debug\Soma matrizes.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Soma matrizes\Soma matrizes\obj\Debug\Soma matrizes.exe
+C:\temp\ws-vs2019\Soma matrizes\Soma matrizes\obj\Debug\Soma matrizes.pdb

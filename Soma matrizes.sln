@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soma matrizes", "Soma matrizes\Soma matrizes.csproj", "{4538D286-8779-456B-9C16-E8C065721B1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4538D286-8779-456B-9C16-E8C065721B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4538D286-8779-456B-9C16-E8C065721B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4538D286-8779-456B-9C16-E8C065721B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4538D286-8779-456B-9C16-E8C065721B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {593AEE49-4D15-48FD-9205-C5EEAF3ABD91}
+	EndGlobalSection
+EndGlobal
